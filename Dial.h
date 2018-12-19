@@ -5,7 +5,7 @@
 #include <Encoder.h>
 #include <Bounce.h>
 
-// TODO use typedefs for raw_pos_t and user_pos_t, like in provocation code, to prevent confusion.
+// TODO use typedefs for raw_pos_t and user_pos_t, like in the provocation-arduino repository's dial code, to prevent confusion.
 
 /// Represents a dial with a mechanical rotary encoder and a pushbutton.
 class Dial {
